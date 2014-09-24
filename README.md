@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/ismaelgasparin/FitVids.js.png?label=ready&title=Ready)](https://waffle.io/ismaelgasparin/FitVids.js)
 # Introducing FitVids.js
 A lightweight, easy-to-use jQuery plugin for fluid width video embeds.
 
